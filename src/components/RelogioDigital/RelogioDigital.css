@@ -1,0 +1,29 @@
+div {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#titulo h2 {
+    font-size: 50px;
+    color: #fff;
+}
+
+#hora{
+    background-color: rgb(65, 73, 73);
+    border: 8px solid #fff;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 800px;
+    height: 250px;
+}
+
+#hora p{
+    font-size: 150px;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
